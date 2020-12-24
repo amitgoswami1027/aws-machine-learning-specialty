@@ -1,4 +1,4 @@
-# aws-machine-learning-specialty
+# AWS Machine Learning Specialty
 ## Fundamentals of Machine Learning on AWS
 ### Overview
 * Artificial Intelligence != Machine Learning != Deep Learning
@@ -23,19 +23,21 @@
 
 ### How to define the Machine Learning Problems
 ###  Example - Customer's Churn Problem (What Questions to ask)
-#### Whats the current pain point?
+#### 1. Whats the current pain point?
 * Customer Churn rate last year was 14.5%.
 * We have no way to predict who will leave so that we can incentivize then to stay.
-#### How are we currently solving this problem?
+#### 2. How are we currently solving this problem?
 * If a customer gets angry during the service call and threatens to leave, a customer agent can offer them the incentive.
-#### What data do we have?
-#### Is the data Labelled?
-#### How will we define success?
+#### 3. What data do we have?
+#### 4. Is the data Labelled?
+#### 5. How will we define success?
 * Customer Churn rate to be dropped to 4%.
 * Customer retension incentives not to exceed $750,000.
-#### What are the trade-offs?
+#### 6. What are the trade-offs?
 * Some Customers will be given incentives even if they are not Churn risks.
 * Some Customers given the incentives will leave anyway.
-#### What is out of scope?
+#### 7. What is out of scope?
 * Deactivaiton or downgrade of the service or features.
 * Sales Experience and performance of the Customer service agents.
+
+
