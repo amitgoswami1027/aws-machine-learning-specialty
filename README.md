@@ -52,7 +52,8 @@
 ![image](https://user-images.githubusercontent.com/13011167/103111758-5f118100-4676-11eb-95fb-539c14e74398.png)
 * Stream Processing - Real Time Processing. Data is loaded and maniplated as it is recognized. Used when real-time data is required (e.g Stock Prices). More Expensive.
 * AWS Services used for Stream Processing (AWS Kinesis):
-![image](https://user-images.githubusercontent.com/13011167/103111860-59686b00-4677-11eb-8327-482240332546.png)
+![image](https://user-images.githubusercontent.com/13011167/103114014-1a401700-4683-11eb-8343-5b4f3214e0fa.png)
+
 #### CLEANING
 * Data is Messay. Taking care of Missing Data, Inconsistent Data values( Male, M), Inconsistant Abbreviations, Duplicates etc.
 #### DATA VISUALIZATION AND ANALYSIS
