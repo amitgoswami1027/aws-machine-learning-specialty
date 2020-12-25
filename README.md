@@ -90,7 +90,6 @@
 # DATA ENGINEERING WITH AWS MACHINE LEARNING
 
 
-
 ###Important Links
 * Amazon SageMaker Examples: git clone https://github.com/awslabs/amazon-sagemaker-examples.git
 * SageMaker Developer Guide (Important)
