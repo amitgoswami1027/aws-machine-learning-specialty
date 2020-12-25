@@ -40,4 +40,41 @@
 * Deactivaiton or downgrade of the service or features.
 * Sales Experience and performance of the Customer service agents.
 
+# AWS SAGEMAKER 
+* Getting data into Sagemaker. 
+![image](https://user-images.githubusercontent.com/13011167/103111676-a8ad9c00-4675-11eb-85c1-dc2ebe460f5b.png)
+
+### FETCH, CLEAN and PREPARE DATA
+#### FETCHING
+* Two type of Data Ingestion Techniques - Batch Processing or Stream Processing.
+* Batch Processing - Prediocally collect and send Data. Used when there is no need for real time processing. 
+* AWS Services used for Batch Processing:
+![image](https://user-images.githubusercontent.com/13011167/103111758-5f118100-4676-11eb-95fb-539c14e74398.png)
+* Stream Processing - Real Time Processing. Data is loaded and maniplated as it is recognized. Used when real-time data is required (e.g Stock Prices). More Expensive.
+* AWS Services used for Stream Processing (AWS Kinesis):
+![image](https://user-images.githubusercontent.com/13011167/103111860-59686b00-4677-11eb-8327-482240332546.png)
+#### CLEANING
+* Data is Messay. Taking care of Missing Data, Inconsistent Data values( Male, M), Inconsistant Abbreviations, Duplicates etc.
+#### DATA VISUALIZATION AND ANALYSIS
+* Analysize descriptive Statistics of Data. Mean, SD, correlation and Outliers etc. 
+* USe Scatter Plots, Correlation Matrix, Histrogram and Box Plots. 
+#### FEATURE ENGINEERING
+* Goals is to increae the predictive power of the data. 
+* Dimentional Reduction - Which features are not related and can be Dropped.
+* Handling Scales (Inches, Meters etc). Age can be in Years and months.
+* Converting Categorical Values to Binary. Categorical Data can be of two type - Norminal Data (Oder does not matter) and Ordinal Data (Order Does matter). Norminal e.g Yes, No, Red Blue Yellow. Ordinal- Small, Medium, Large or Hot, Hotter and Hottest. 
+* ONE-HOT ENCODING (Ordinal Data - Generally not recomanded the encode numerical Value). Solution is ONE-HOT-ENCODING.
+![image](https://user-images.githubusercontent.com/13011167/103112229-047a2400-467a-11eb-8218-2e378f59c41f.png)
+
+### TRAINING AND EVALUATING THE MODEL
+
+
+
+
+###Important Links
+* Amazon SageMaker Examples: git clone https://github.com/awslabs/amazon-sagemaker-examples.git
+
+
+
+
 
