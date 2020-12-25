@@ -4,7 +4,7 @@
 * Artificial Intelligence != Machine Learning != Deep Learning
 * Machine Learning - Learning from Data is = Identifying Patterns. Machine Learning Identifies Patterns in the existing data to make predications about new data.
 * Deep Learning - Subset of ML.
-![image](https://user-images.githubusercontent.com/13011167/103081436-ec64bf00-45fd-11eb-815c-00f1a13839e7.png)
+![image](https://user-images.githubusercontent.com/13011167/103115848-254a7580-468a-11eb-8ede-04f5aefc56e3.png)
 
 #### When to use the Machine Learning?
 * When its too difficult to code logic the "old fashioned way"using if-else statements. E.g Analyze Sentiments on the social Media data or websites.
@@ -71,14 +71,20 @@
 * Train the models using different algorithms and evauate it using Hyperparameter tuning.
 * Goal of ML is to generalize he model. Taking care of Overfitting or Underfitting. 
 * Tuning the Model:
-![image](https://user-images.githubusercontent.com/13011167/103114347-309aa280-4684-11eb-984f-ec249c7aaa12.png)
+![image](https://user-images.githubusercontent.com/13011167/103115898-54f97d80-468a-11eb-9197-2cdae7113f86.png)
+
 * Confusion Matrix for the following predictioned values.
 ![image](https://user-images.githubusercontent.com/13011167/103114735-e2869e80-4685-11eb-8fb2-f663a2f30db0.png)
 ![image](https://user-images.githubusercontent.com/13011167/103114820-2f6a7500-4686-11eb-9da3-603db263c6cb.png)
-
-
 * Metrics for Classification Problems:
 ![image](https://user-images.githubusercontent.com/13011167/103114603-54aab380-4685-11eb-8ec5-ad794e6a64f1.png)
+
+### DEPLOY AND MONITORING MODELS
+* Deploying the model - Need to take care of security and best practices and Monitoring the Model - CloudWatch(Performance Metrix) and CloudTrail (Auditing API Activity), Sagemaker Model Monitor
+* IAM Role based Access for Amazon Sagemaker for security.
+
+## AWS MACHINE LEARNING STACK
+![image](https://user-images.githubusercontent.com/13011167/103115779-ee745f80-4689-11eb-907f-a12c33cd5202.png)
 
 
 ###Important Links
