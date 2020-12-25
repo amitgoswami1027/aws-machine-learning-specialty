@@ -68,7 +68,15 @@
 ![image](https://user-images.githubusercontent.com/13011167/103112229-047a2400-467a-11eb-8218-2e378f59c41f.png)
 
 ### TRAINING AND EVALUATING THE MODEL
-
+* Train the models using different algorithms and evauate it using Hyperparameter tuning.
+* Goal of ML is to generalize he model. Taking care of Overfitting or Underfitting. 
+* Tuning the Model:
+![image](https://user-images.githubusercontent.com/13011167/103114347-309aa280-4684-11eb-984f-ec249c7aaa12.png)
+* Confusion Matrix for the following predictioned values.
+![image](https://user-images.githubusercontent.com/13011167/103114525-ee259580-4684-11eb-97da-29475456f9c5.png)
+![image](https://user-images.githubusercontent.com/13011167/103114491-ca624f80-4684-11eb-88c6-8db832f62e26.png)
+* Metrics for Classification Problems:
+![image](https://user-images.githubusercontent.com/13011167/103114603-54aab380-4685-11eb-8ec5-ad794e6a64f1.png)
 
 
 
