@@ -75,7 +75,8 @@
 
 * Confusion Matrix for the following predictioned values.
 ![image](https://user-images.githubusercontent.com/13011167/103114735-e2869e80-4685-11eb-8fb2-f663a2f30db0.png)
-![image](https://user-images.githubusercontent.com/13011167/103114820-2f6a7500-4686-11eb-9da3-603db263c6cb.png)
+![image](https://user-images.githubusercontent.com/13011167/103121032-59309580-46a0-11eb-9c5e-61f2cde12310.png)
+
 * Metrics for Classification Problems:
 ![image](https://user-images.githubusercontent.com/13011167/103114603-54aab380-4685-11eb-8ec5-ad794e6a64f1.png)
 
