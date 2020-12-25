@@ -1,5 +1,5 @@
-# AWS Machine Learning Specialty
-## Fundamentals of Machine Learning on AWS
+# AWS Machine Learning Specialty Certification
+# Fundamentals of Machine Learning on AWS
 ### Overview
 * Artificial Intelligence != Machine Learning != Deep Learning
 * Machine Learning - Learning from Data is = Identifying Patterns. Machine Learning Identifies Patterns in the existing data to make predications about new data.
@@ -86,10 +86,15 @@
 # AWS MACHINE LEARNING STACK
 ![image](https://user-images.githubusercontent.com/13011167/103115779-ee745f80-4689-11eb-907f-a12c33cd5202.png)
 
+# DATA ENGINEERING WITH AWS MACHINE LEARNING
+
+
 
 ###Important Links
 * Amazon SageMaker Examples: git clone https://github.com/awslabs/amazon-sagemaker-examples.git
-
+* SageMaker Developer Guide (Important)
+* SageMaker Blog 
+* Amazon ReInvent - SageMaker.
 
 
 
