@@ -83,7 +83,7 @@
 * Deploying the model - Need to take care of security and best practices and Monitoring the Model - CloudWatch(Performance Metrix) and CloudTrail (Auditing API Activity), Sagemaker Model Monitor
 * IAM Role based Access for Amazon Sagemaker for security.
 
-## AWS MACHINE LEARNING STACK
+# AWS MACHINE LEARNING STACK
 ![image](https://user-images.githubusercontent.com/13011167/103115779-ee745f80-4689-11eb-907f-a12c33cd5202.png)
 
 
