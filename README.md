@@ -88,6 +88,18 @@
 ![image](https://user-images.githubusercontent.com/13011167/103115779-ee745f80-4689-11eb-907f-a12c33cd5202.png)
 
 # DATA ENGINEERING WITH AWS MACHINE LEARNING
+### PRIMARY DATASTORE FOR MACHINE LEARNING
+* Amazon S3 Data Lakes and Amazon Redshift Data Warehouse.
+* Data Warehouse VS Data Lake
+![image](https://user-images.githubusercontent.com/13011167/103143524-ec6bd880-473d-11eb-832a-b2e64b575340.png)
+* Building Big Data Storage Solutions (Data Lakes)
+![image](https://user-images.githubusercontent.com/13011167/103143560-761ba600-473e-11eb-93b8-e2700228b238.png)
+
+### Amazon S3 Data Lake Design Patterns
+* Immutable logs and Materialized Views.
+![image](https://user-images.githubusercontent.com/13011167/103143691-bc263900-4741-11eb-82c3-84dca408bb5f.png)
+![image](https://user-images.githubusercontent.com/13011167/103143717-33f46380-4742-11eb-88dd-d50b8f594205.png)
+![image](https://user-images.githubusercontent.com/13011167/103143705-fd1e4d80-4741-11eb-8b73-5d58ae4506cd.png)
 
 
 ###Important Links
