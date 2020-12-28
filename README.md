@@ -101,6 +101,20 @@
 ![image](https://user-images.githubusercontent.com/13011167/103143717-33f46380-4742-11eb-88dd-d50b8f594205.png)
 ![image](https://user-images.githubusercontent.com/13011167/103143705-fd1e4d80-4741-11eb-8b73-5d58ae4506cd.png)
 
+## Implementing and Operating AWS ML Solutions
+* Data Ingestion and Transforming Services 
+  * Kinesis Data Streams- Data Streaming services that supports massive scale and durability of data (Can store the data upto 7 days). Drawback is require manual sharding 
+    configration and scaling.
+    Use Case Include - 1. Data Storage of Streaming Data is Needed. 2. Replay of Streamling Data is Needed. 3. If we want our data near to real time, then Kinesis Data Streams 
+    are useful.
+  * Kinesis Data Firehose- Fully Managed AWS Data Delivery Solutions integrated with different AWS Services. Advantage -Its does not require manual configration to scale.
+    Use Case Include - 1. If we require Data to be delivered into S3, Redshift or Elasticsearch. 2. If near real-time fulfill the purpose, its can be a great fit. 3. If amount 
+    of training data is somewhat unpredicatable. 
+  * Kinesis Video Streams - Fully Managed AWS Data Delivery Solutions integrated with different AWS Services. Advantage -Its does not require manual configration to scale.
+    Use Case Include - 1. Delviery of Video Streams from Home Camra to Sagamaker for analysis. 2. If we want to integrate video data with facial recognization in Amazon 
+    Rekognition. 
+  * Kinesis Data Analytics - Fully Managed AWS Data Delivery Solutions integrated with different AWS Services. Enable queries to be run against input data. 
+
 
 ###Important Links
 * Amazon SageMaker Examples: git clone https://github.com/awslabs/amazon-sagemaker-examples.git
