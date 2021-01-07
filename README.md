@@ -1,4 +1,5 @@
 # AWS Machine Learning Specialty Certification
+
 # Fundamentals of Machine Learning on AWS
 ### Overview
 * Artificial Intelligence != Machine Learning != Deep Learning
@@ -20,6 +21,9 @@
 
 ### Defining Machine Learning Problems (Different types of problems)
 ![image](https://user-images.githubusercontent.com/13011167/103083778-45832180-4603-11eb-89a4-2c87cbd5a01e.png)
+
+* Machine Learning starts with the "Business Problem". What the Business question we want to answer. If we don't have a Business Problem, just stop.
+![image](https://user-images.githubusercontent.com/13011167/103872597-a2e39c00-50f4-11eb-8688-3af54218d3be.png)
 
 ### How to define the Machine Learning Problems
 ###  Example - Customer's Churn Problem (What Questions to ask)
